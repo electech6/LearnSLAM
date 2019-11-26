@@ -89,13 +89,13 @@ PPT获得方式：关注公众号：计算机视觉life，后台回复：cmake�
 
 **2019.11.23[《Stereo Vision——立体视觉论述+标定+校正》](https://www.bilibili.com/video/av77080433)**
 
-PPT获得方式：关注公众号：计算机视觉life，后台回复立体视觉。
+PPT获得方式：关注公众号：计算机视觉life，后台回复:立体视觉。
 
 本期主讲嘉宾：就职于北京旷视科技有限公司 计算机视觉算法工程师
 
 **2019.11.24[《Stereo Vision——stereo matching》](https://www.bilibili.com/video/av77084566)**
 
-PPT获得方式：关注公众号：计算机视觉life，后台回复立体视觉。
+PPT获得方式：关注公众号：计算机视觉life，后台回复:立体视觉。
 
 本期主讲嘉宾：就职于北京旷视科技有限公司 计算机视觉算法工程师
 
