@@ -99,27 +99,27 @@ PPT获得方式：关注公众号：计算机视觉life，后台回复:立体视
 
 本期主讲嘉宾：就职于北京旷视科技有限公司 计算机视觉算法工程师
 
-**2019.11.28 [中长期视觉位置识别及重定位](https://www.bilibili.com/video/av78148087)**
+**2019.11.28 [《中长期视觉位置识别及重定位》](https://www.bilibili.com/video/av78148087)**
 
 本期主讲嘉宾：中科院自动化所在读博士，辛喆
 
-**2019.11.28 [Robust loop closure detection based on bag of superpoints and graph verification](https://www.bilibili.com/video/av78148691)**
+**2019.11.28 [《Robust loop closure detection based on bag of superpoints and graph verification》](https://www.bilibili.com/video/av78148691)**
 
 本期主讲嘉宾：北京航空航天大学 IR&MCT实验室硕士，苗津毓
 
-**2019.11.28 [learning based camera relocation](https://www.bilibili.com/video/av78212267)**
+**2019.11.28 [《learning based camera relocation》](https://www.bilibili.com/video/av78212267)**
 
 本期主讲嘉宾：北京大学前沿计算研究中心博士，董思言
 
-**2019.11.28 [X-view-graph based semantic multi-view localization](https://www.bilibili.com/video/av78214114)**
+**2019.11.28 [《X-view-graph based semantic multi-view localization》](https://www.bilibili.com/video/av78214114)**
 
 本期主讲嘉宾：清华大学集成智能视觉感知组博士，李东江
 
-**2019.11.28 [室内配送机器人视觉定位面临的挑战](https://www.bilibili.com/video/av78216835)**
+**2019.11.28 [《室内配送机器人视觉定位面临的挑战》](https://www.bilibili.com/video/av78216835)**
 
 本期主讲嘉宾：九号机器人高级算法工程师, 庞富民
 
-**2019.11.30 [SLAM综述论文精读](https://www.bilibili.com/video/av77772300)**
+**2019.11.30 [《SLAM综述论文精读》](https://www.bilibili.com/video/av77772300)**
 
 《Keyframe-based monocular SLAM: design, survey, and future directions》
 
@@ -127,7 +127,7 @@ PPT获得方式：关注公众号：计算机视觉life，后台回复: 带读�
 
 本期主讲嘉宾：北京航空航天大学在读博士，研究方向为机械手的智能抓取，移动机器人室内建图及导航
 
-**2019.12.01 [摄像机透视投影模型](https://www.bilibili.com/video/av77781215)**
+**2019.12.01 [《摄像机透视投影模型》](https://www.bilibili.com/video/av77781215)**
 
 PPT获得方式：关注公众号：计算机视觉life，后台回复: 透视。
 
