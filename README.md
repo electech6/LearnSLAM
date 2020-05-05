@@ -173,13 +173,61 @@ PPT获得方式：关注公众号：计算机视觉life，后台回复: 角点�
 
 PPT获得方式：关注公众号：计算机视觉life，后台回复:0222。
 
-**2020.22.23 [《KinectFusionLib代码解析（上）》](https://www.bilibili.com/video/av91480839)**
+**2020.02.23 [《RGBD稠密重建开山之作-KinectFusionLib代码解析（上）》](https://www.bilibili.com/video/av91480839)**
 
 主讲内容：本次分享分为上下两期，介绍最经典也是最简单的稠密SLAM系统——KinectFusion，以其中的KinectFusionLib实现的代码为例，简要介绍CUDA并行计算基础，并深入窥探KinectFusion中Surface measurement、Pose Estimation、Surface Reconstruction和Surface Prediction的算法思想。
 
 主讲嘉宾：东北大学研究生，主要研究方向为动态场景下的鲁棒视觉SLAM系统设计和稠密地图构建。
 
 PPT获得方式：关注公众号：计算机视觉life，后台回复: 0223。
+
+**2020.02.29 [《RGBD稠密重建开山之作-KinectFusionLib代码解析(下)》](https://www.bilibili.com/video/BV1TE41177TG)**
+
+主讲内容：本次分享分为上下两期，介绍最经典也是最简单的稠密SLAM系统——KinectFusion，以其中的KinectFusionLib实现的代码为例，简要介绍CUDA并行计算基础，并深入窥探KinectFusion中Surface measurement、Pose Estimation、Surface Reconstruction和Surface Prediction的算法思想。
+
+主讲嘉宾：东北大学研究生，主要研究方向为动态场景下的鲁棒视觉SLAM系统设计和稠密地图构建。
+
+PPT获得方式：关注公众号：计算机视觉life，后台回复: 0223。
+
+**2020.03.14 [《机器人操作系统ROS快速入门》](https://www.bilibili.com/video/BV1m7411Z7HF)**
+
+主讲内容：介绍ROS入门基础，主要包括ROS基本概念和简单编程，适合新入门的小白玩家
+
+主讲嘉宾：天津大学研究生，主要研究方向是视觉SLAM
+
+PPT获得方式：关注公众号：计算机视觉life，后台回复：ROS
+
+**2020.03.22 [《卡尔曼滤波模型硬核原理解析》](https://www.bilibili.com/video/BV1X741117FL)**
+
+主讲内容：介绍经典卡尔曼滤波的数学模型和数学推导
+
+主讲嘉宾：北京航空航天大学博士研究生，研究方向为数学图像处理，移动机器人。
+
+PPT获得方式：关注公众号：计算机视觉life，后台回复：卡尔曼
+
+**2020.03.26 [立体匹配算法原理与应用》](https://www.bilibili.com/video/BV1uk4y1o72i)**
+
+主讲内容：立体匹配算法的基本原理、经典算法与应用，包括：极线几何、立体校正、代价空间等基本概念；传统的匹配代价函数和基于深度学习的代价函数；具有代表性的代价聚合方法（如SGM，快速边缘保持滤波算法等）；对立体匹配算法的应用进行讨论。
+
+主讲嘉宾：徐玉华，国防科技大学博士后，目前担任奥比中光研究院计算机视觉算法组负责人。曾主持国家自然科学基金项目1项，在Optics Express、Optcis and Lasers in Engineering等期刊发表论文十余篇。2018年被评为深圳市高层次专业技术人才，同年入选中国图像图形学会三维视觉专业委员会委员
+
+PPT获得方式：关注公众号：计算机视觉life，后台回复：奥比
+
+**2020.04.06 [《2020 SLAM学习与求职经验分享》](https://www.bilibili.com/video/BV1hp4y1C7ZH)**
+
+主讲内容：SLAM学习要点和方法，SLAM求职中的注意事项与建议，求职疑惑问答
+
+主讲嘉宾：李阳阳，北京科技大学硕士，目前就职于某互联网一线名企；知乎专栏博主：“视觉SLAM，VIO等相关”
+
+PPT获得方式：关注公众号：计算机视觉life，后台回复：2020面试
+
+**2020.04.19 [《萌妹子带你读Cartoprapher论文》](https://www.bilibili.com/video/BV1nV411Z7W5)**
+
+主讲内容：Cartographer流程概述、Real-Time Loop Closure in 2D LIDAR SLAM论文带读
+
+主讲嘉宾：张涵，辽宁工程技术大学硕士，主要研究方向为激光雷达SLAM以及多传感器的融合。
+
+PPT获得方式：关注公众号：计算机视觉life，后台回复：Cartographer
 
 直播涉及内容有：
 
