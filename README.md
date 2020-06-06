@@ -221,13 +221,53 @@ PPT获得方式：关注公众号：计算机视觉life，后台回复：奥比
 
 PPT获得方式：关注公众号：计算机视觉life，后台回复：2020面试
 
-**2020.04.19 [《萌妹子带你读Cartoprapher论文》](https://www.bilibili.com/video/BV1nV411Z7W5)**
+**2020.04.19 [《【Cartographer 专题讲解一】萌妹子带你读Cartoprapher论文》](https://www.bilibili.com/video/BV1nV411Z7W5)**
 
 主讲内容：Cartographer流程概述、Real-Time Loop Closure in 2D LIDAR SLAM论文带读
 
 主讲嘉宾：张涵，辽宁工程技术大学硕士，主要研究方向为激光雷达SLAM以及多传感器的融合。
 
 PPT获得方式：关注公众号：计算机视觉life，后台回复：Cartographer
+
+**2020.05.10 [《【Cartographer 专题讲解二】Cartographer_ROS 代码讲解》](https://www.bilibili.com/video/BV1je411W7Dp)**
+
+主讲内容：introduction to cartographer_ros、how to use cartographer without ros
+
+主讲嘉宾：崔佳峰，同济大学硕士，主要研究方向为激光雷达SLAM以及多传感器的融合。
+
+PPT获得方式：关注公众号：计算机视觉life，后台回复：Cartographer
+
+**2020.05.16 [《浙江得图CTO：如何打造三维重建工程体系？》](https://www.bilibili.com/video/BV1Nf4y1U7fe)**
+
+主讲内容：1.三维重建技术在产品、技术、场景上的落地实施。2.思考产品定位以及定夺技术方案。 3.避免在产品落地服务中掉坑
+
+主讲嘉宾：孙其瑞，得图网络CTO，主导多款全景相机、三维扫描相机的产品研发，以及场景化解决方案落地服务
+
+PPT获得方式：关注公众号：计算机视觉life，后台回复：得图
+
+**2020.05.23 [《【ORBSLAM2源码讲解专题一】ORB特征点提取与均匀化》](https://www.bilibili.com/video/BV1154y1D7tA)**
+
+主讲内容：详解ORBSLAM2中ORB特征点提取与均匀化代码，包括：图像金字塔提特征点、特征点四叉树均匀化源码疑难点剖析
+
+主讲嘉宾：小六，计算机视觉life公众号负责人，计算机视觉算法工程师，研究方向视觉slam，三维重建。
+
+PPT获得方式：关注公众号：计算机视觉life，后台回复：ORB提取
+
+**2020.05.24 [《【Cartographer 专题讲解三】激光SLAM数据预处理》](https://www.bilibili.com/video/BV18f4y127mx)**
+
+主讲内容：本周详解激光slam数据预处理部分，主要包括轮式里程计运动模型、似然场模型，运动畸变去除（ICP、传感器辅助方法、融合方法）
+
+主讲嘉宾：曹秀洁，北京航空航天大学在读博士，研究方向激光slam，移动机器人运动规划
+
+PPT获得方式：关注公众号：计算机视觉life，后台回复：激光数据处理
+
+**2020.05.31 [《【ORBSLAM2源码讲解专题二】Oriented Fast神奇高效的代码实现方式》](https://www.bilibili.com/video/BV1FZ4y1H7JH)**
+
+主讲内容：灰度质心法求fast方向，理论与代码如何统一？u,v圆疑难代码解析。逐代码精讲
+
+主讲嘉宾：小六，计算机视觉life公众号负责人，计算机视觉算法工程师，研究方向视觉slam，三维重建。
+
+PPT获得方式：关注公众号：计算机视觉life，后台回复：方向
 
 直播涉及内容有：
 
