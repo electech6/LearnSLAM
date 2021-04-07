@@ -251,7 +251,7 @@ PPT获得方式：关注公众号：计算机视觉life，后台回复：得图
 
 PPT获得方式：关注公众号：计算机视觉life，后台回复：ORB提取
 
-**2020.05.24 [《【Cartographer 专题讲解三】激光SLAM数据预处理》]https://www.bilibili.com/video/BV12p4y1x7Lo/)**
+**2020.05.24 [《【Cartographer 专题讲解三】激光SLAM数据预处理》](https://www.bilibili.com/video/BV12p4y1x7Lo/)**
 
 主讲内容：本周详解激光slam数据预处理部分，主要包括轮式里程计运动模型、似然场模型，运动畸变去除（ICP、传感器辅助方法、融合方法）
 
