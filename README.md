@@ -11,11 +11,9 @@
 ## 形式
 
 形式：bilibili在线直播，直播地址：http://live.bilibili.com/21679522 （可以提前在B站关注UP主：计算机视觉life，开播自动提醒）
-交流讨论QQ群：617030152，也可以在直播时通过QQ群提问。提供回放，来不及参加的可以看录播。
+视觉SLAM(ORB-SLAM2/ORBSLAM3) QQ群：690145497。激光SLAM(Cartographer)QQ群：1105241614。
 
 内容：按照SLAM不同主题定期组织线上课程直播讲解，包括关键知识点梳理、代码讲解、论文带读、工作经验分享、企业公开课等。详情具体见下。
-
-受众：前期主要面向《计算机视觉life》所有公众号读者，后期逐渐扩散到全网。
 
 
 ## 人员
@@ -26,7 +24,7 @@
 
 职责：负责一个知识点的PPT讲解，时长30-45分钟左右。
 
-**目前成员：乐乐猪（北航），小涵（辽宁工大），小六（中科院），小马哥，line（中科院），张学侠（西电），Payne（旷视），Minne(哈工大)，利凌云志（吉大）国庆（东北大学），书伟（天津大学）, 徐飞鸿（中国工程物理研究院），同心圆（南京大学），小狼（电科院），佳峰（同济大学）**
+**目前成员：乐乐猪（北航），小涵（辽宁工大），小六（中科院），小马哥，line（中科院），张学侠（西电），Payne（旷视），Minne(哈工大)，利凌云志（吉大）国庆（东北大学），书伟（天津大学）, 小狼（电科院），佳峰（同济大学），Waynee**
 
 2、联络
 
@@ -253,7 +251,7 @@ PPT获得方式：关注公众号：计算机视觉life，后台回复：得图
 
 PPT获得方式：关注公众号：计算机视觉life，后台回复：ORB提取
 
-**2020.05.24 [《【Cartographer 专题讲解三】激光SLAM数据预处理》](https://www.bilibili.com/video/BV18f4y127mx)**
+**2020.05.24 [《【Cartographer 专题讲解三】激光SLAM数据预处理》]https://www.bilibili.com/video/BV12p4y1x7Lo/)**
 
 主讲内容：本周详解激光slam数据预处理部分，主要包括轮式里程计运动模型、似然场模型，运动畸变去除（ICP、传感器辅助方法、融合方法）
 
@@ -272,3 +270,68 @@ PPT获得方式：关注公众号：计算机视觉life，后台回复：方向
 直播涉及内容有：
 
 ![](https://github.com/electech6/LearnSLAM/blob/master/SLAM%E7%9F%A5%E8%AF%86%E5%9B%BE.jpg)
+
+**2020.07.19 [ORB-SLAM源码讲解专题三】详解代码：ORBSLAM2的单目初始化](https://www.bilibili.com/video/BV1HT4y1j7W3)**
+
+主讲内容：快速特征匹配，特征匹配点筛选，单应矩阵，基础矩阵恢复位姿，尺度归一化等
+
+主讲嘉宾：小六，计算机视觉life公众号负责人，计算机视觉算法工程师，研究方向视觉slam，三维重建。
+
+PPT获得方式：关注公众号：计算机视觉life，后台回复：单目初始化
+
+**2020.07.26 [【ORB-SLAM源码讲解专题四】详解代码：单目Tracking过程](https://www.bilibili.com/video/BV1Gt4y1D7HD)**
+
+主讲内容：Tracking的基本原理、三种跟踪模式和局部地图跟踪等
+
+主讲嘉宾：王寰，北京理工大学硕士，研究方向为视觉slam跟踪避障等。
+
+PPT获得方式：关注公众号：计算机视觉life，后台回复：tracking
+
+**2020.08.16 [IMU选型、标定误差分析、AHRS组合导航](https://www.bilibili.com/video/BV12Z4y1K79e)**
+
+主讲内容：分享IMU选型、标定、误差分析、AHRS以及组合导航
+
+主讲嘉宾：Waynee，主要研究方向为惯性导航以及多传感器数据融合
+
+PPT获得方式：关注公众号：计算机视觉life，后台回复：惯性技术
+
+**2020.08.12 [ORBSLAM2源码讲解：ORBSLAM2简介、TUM数据集简介、安装运行方法、需要注意的地方](https://www.bilibili.com/video/BV1DV411z7mY)**
+
+**2020.08.12 [ORBSLAM2源码讲解：词袋结构，图像描述子转化为BowVector和FeatureVector](https://www.bilibili.com/video/BV17K4y1Y7DJ)**
+
+**2020.08.29 [ORBSLAM2源码讲解专题5：理解共视图、本质图、扩展树](https://www.bilibili.com/video/BV1e54y1278y)**
+
+主讲内容：ORB_SLAM2中的covisibility graph、spanning tree，essential graph的创建、更新、使用方法 
+
+主讲嘉宾：小六，计算机视觉life公众号负责人，SLAM研习社社长，计算机视觉算法工程师，研究方向视觉slam，三维重建。
+
+PPT获得方式：关注公众号：计算机视觉life，后台回复：共视图
+
+**2020.09.13 [Cartographer专题讲解五：主线程算法精讲](https://www.bilibili.com/video/BV1Zv411C7w2)**
+
+主讲内容：cartographer算法主线程讲解
+
+1.local slam讲解
+
+2.global slam讲解
+
+3.回环检测机制讲解
+
+主讲嘉宾：崔佳峰，同济大学硕士，研究方向为激光slam
+
+**2020.12.09 [无人机实时及快速地图重建](https://www.bilibili.com/video/BV1X5411G7SH)**
+
+主讲内容：从产品发展历程的角度讲解无人机实时地图重建的相关技术。
+
+主讲嘉宾：赵勇，西北工业大学博士在读四年级，西安视野慧图智能科技有限公司CTO，IROS论文Map2DFusion及ICCV论文GSLAM一作，在IROS，ICCV，TGRS等会议期刊上发表多篇论文，同时编写了多种编程语言通用接口Svar并开源，在知乎”100 项开源视觉 SLAM 方案够你用了吗？“的统计中仅个人贡献了两个开源项目。
+
+PPT获得方式：关注公众号：计算机视觉life，后台回复：西安视野
+
+
+**2020.12.28 [面向SLAM知识星球成员的直播答疑](https://www.bilibili.com/video/BV1xZ4y137rF)**
+
+**2021.04.05 [我的SLAM学习经验、互动答疑](https://www.bilibili.com/video/BV1xZ4y137rF)**
+
+直播嘉宾：小六，计算机视觉life公众号创始人，《从零开始学习SLAM》知识星球（2400+成员）星主，《全网最详细的ORB-SLAM2精讲：原理推导+逐行代码分析》课程讲师，策划制作《吃透三维重建：原理剖析+逐行代码讲解》课程及后续Vins-Mono、ORB-SLAM3等课程。
+
+直播内容：我的SLAM学习之路，并集中回答各位粉丝及学员在知识星球、课程交流群里的提问，直播过程中还会有抽奖及限时秒杀活动。
